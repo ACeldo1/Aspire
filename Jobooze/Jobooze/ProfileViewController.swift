@@ -15,7 +15,7 @@ class ProfileViewController: UIViewController, UITableViewDelegate, UITableViewD
     @IBOutlet weak var username: UILabel!
     
     @IBOutlet weak var jobsNumber: UILabel!
-    @IBOutlet weak var emailField: UILabel!
+//    @IBOutlet weak var emailField: UILabel!
     @IBOutlet weak var profileTableView: UITableView!
     
     @IBOutlet weak var profilepic: UIImageView!
@@ -48,7 +48,7 @@ class ProfileViewController: UIViewController, UITableViewDelegate, UITableViewD
                     profilepic.af_setImage(withURL: url)
         
         username.text =  firstName! + " " + lastName!
-        emailField.text = email!
+//        emailField.text = email!
         
         // Do any additional setup after loading the view.
     }
