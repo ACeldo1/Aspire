@@ -13,7 +13,7 @@ Aspire is an app designed to help users keep track of jobs they are interested i
 
 ## Overview
 ### Description
-Aspire is an app designed to help users keep track of jobs they are interested in and jobs they've applied to
+Aspire is an app designed to help users keep track of jobs they are interested in and jobs they've applied to. Initially name Jobooze, then Jobify and finally Aspire.
 
 ### App Evaluation
 - **Category:** Self-management 
